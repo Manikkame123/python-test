@@ -1,7 +1,16 @@
 Hi
 
+<<<<<<< HEAD
 This is my first GIT dem
 
 This is committed by dev 2
 
 :o
+=======
+This is my first GIT demo
+
+
+Edited file 
+
+
+>>>>>>> 6a6a5fea58144843f7e9692944e0fbcc037b7577
